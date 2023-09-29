@@ -1,1 +1,3 @@
 # social-network-app18
+
+This week, we were assigneds to put together a social networking application. The puropse of which is to allow the user to connect with other individuals online and share their thoughts. I decieded to add a type of twist to my assignment by turning the application into a student portal that utilizes the same functionalities but it allows the student to update their assignments, post or delete them. They also have the ability to do the same for their courses as well. I worked with a tutor this time around to ensure I got everything connected to their appropriate locations and I've learned many things from this experience. I am truly excited for my next assignment!
